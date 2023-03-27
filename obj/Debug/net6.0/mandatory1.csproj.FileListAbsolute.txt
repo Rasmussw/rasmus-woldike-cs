@@ -1,0 +1,15 @@
+/Users/rasmuswoldike/mandatory1/bin/Debug/net6.0/mandatory1
+/Users/rasmuswoldike/mandatory1/bin/Debug/net6.0/mandatory1.deps.json
+/Users/rasmuswoldike/mandatory1/bin/Debug/net6.0/mandatory1.runtimeconfig.json
+/Users/rasmuswoldike/mandatory1/bin/Debug/net6.0/mandatory1.dll
+/Users/rasmuswoldike/mandatory1/bin/Debug/net6.0/mandatory1.pdb
+/Users/rasmuswoldike/mandatory1/obj/Debug/net6.0/mandatory1.csproj.AssemblyReference.cache
+/Users/rasmuswoldike/mandatory1/obj/Debug/net6.0/mandatory1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasmuswoldike/mandatory1/obj/Debug/net6.0/mandatory1.AssemblyInfoInputs.cache
+/Users/rasmuswoldike/mandatory1/obj/Debug/net6.0/mandatory1.AssemblyInfo.cs
+/Users/rasmuswoldike/mandatory1/obj/Debug/net6.0/mandatory1.csproj.CoreCompileInputs.cache
+/Users/rasmuswoldike/mandatory1/obj/Debug/net6.0/mandatory1.dll
+/Users/rasmuswoldike/mandatory1/obj/Debug/net6.0/refint/mandatory1.dll
+/Users/rasmuswoldike/mandatory1/obj/Debug/net6.0/mandatory1.pdb
+/Users/rasmuswoldike/mandatory1/obj/Debug/net6.0/mandatory1.genruntimeconfig.cache
+/Users/rasmuswoldike/mandatory1/obj/Debug/net6.0/ref/mandatory1.dll
