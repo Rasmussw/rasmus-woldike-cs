@@ -59,10 +59,14 @@ class Standing
         {
             n = " ";
         }
+        //der skal tjekkes om streak er 5 - lige nu fejler den hvis streak er mindre end 5
+        return $"{position + s} {fullName + marking + n} {games} {points} {won} {draw} {lost} {goalsFor} {goalsAgainst} {goalDif} {streak.Substring(streak.Length - 5)}";
+    }
 
-        return position + s + " " + fullName + marking + n + " " + games + " " + points + " " +
-        won + " " + draw + " " + lost + " " + goalsFor + " " + goalsAgainst + " " +
-        goalDif + " " + streak.Substring(streak.Length - 5);
+    public string stringToCSVFile()
+    {
+        // får at få præsentatioenen til at se godt ud
+        return $"{position};{fullName};{marking};{games};{points};{won};{draw};{lost};{goalsFor};{goalsAgainst};{goalDif};{streak.Substring(streak.Length - 5)}{Environment.NewLine}";
     }
 
 

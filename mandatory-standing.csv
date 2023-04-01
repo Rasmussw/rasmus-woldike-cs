@@ -1,1 +1,13 @@
-﻿Position in the table;Special marking in parentheses;Full club name;Games played;Number of games won;Number of games drawn;Number of games lost;Goals for;Goals against;Goal Difference;Points achieved;Current winning streak
+position;club;mark;games;points;won;draws;lost;goalsfor;goalsagainst;goalsdiff;streak
+1;FCN;   ;5;13;4;1;0;8;2;6;WWWDW
+2;SIF;   ;5;10;3;1;1;10;6;4;WWDLW
+3;AGF;   ;5;10;3;1;1;6;3;3;DWLWW
+4;RFC;   ;5;9;2;3;0;7;4;3;DDDWW
+5;VFF;   ;5;9;3;0;2;9;7;2;WLWWL
+6;ACH;(P);5;8;2;2;1;5;4;1;DWWDL
+7;FCM;(C);5;6;1;3;1;13;11;2;WLDDD
+8;FCK;(W);5;6;2;0;3;10;10;0;LWLLW
+9;BIF;   ;5;6;2;0;3;5;9;-4;LLWWL
+10;LBK;(P);5;2;0;2;3;6;9;-3;LLDLD
+11;AAB;   ;5;2;0;2;3;3;8;-5;DLLDL
+12;OB;   ;5;1;0;1;4;4;13;-9;LDLLL
